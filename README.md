@@ -16,6 +16,7 @@ Text-to-image models let designers imagine their designs before actually impleme
 
 ### Architecture Industry Architects can use the models to create an atmosphere based on the floor plan needs. 
 - This includes any furnishings that must be placed in the setting.
+- 
 
 
 ![Prompt](https://user-images.githubusercontent.com/59840966/210938584-c6e0516c-9190-4d25-875a-0f0cea554fcc.png)
